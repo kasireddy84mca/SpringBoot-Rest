@@ -1,5 +1,5 @@
 package com.example.beans;
-
+//Student class
 public class Student {
 
 	String name;
